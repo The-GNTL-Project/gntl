@@ -469,7 +469,6 @@ namespace nodetool
     {
       full_addrs.insert("82.69.122.59:36661"); //UK - BKdilse
       full_addrs.insert("88.208.212.174:36661"); //UK - BKdilse
-      full_addrs.insert("13.66.214.75:36661"); //USA - BKdilse
       full_addrs.insert("65.21.178.126:36661"); //Europe - baldtrooper
       full_addrs.insert("65.21.245.45:36661"); //Europe - baldtrooper
 }
@@ -482,11 +481,9 @@ namespace nodetool
       full_addrs.insert("88.208.212.174:16661"); //UK - BKdilse
       full_addrs.insert("65.21.178.126:16661"); //Europe - baldtrooper
       full_addrs.insert("65.21.245.45:16661"); //Europe - baldtrooper
-      full_addrs.insert("92.205.29.59:16661"); //Europe - Colinsky
-      full_addrs.insert("13.66.214.75:16661"); //USA - BKdilse
       full_addrs.insert("47.181.202.47:16661"); //USA - Grok
-      full_addrs.insert("68.168.100.207:16661"); //USA - Eadrom
-      full_addrs.insert("125.229.80.116:16661"); //Asia - AzPool
+      full_addrs.insert("198.50.187.228:16661"); //USA - Eadrom
+      full_addrs.insert("1.34.251.123:16661"); //Asia - AzPool
     }
     return full_addrs;
   }

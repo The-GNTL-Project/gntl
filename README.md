@@ -55,9 +55,12 @@ Portions Copyright (c) 2012-2013 The Cryptonote developers.
 - Discord: [https://discord.gntl.uk](https://discord.gntl.uk)
 - Telegram: [https://t.me/GNTLCoin](https://t.me/GNTLCoin)
 - Wiki: [https://github.com/The-GNTL-Project/Documentation/wiki/](https://github.com/The-GNTL-Project/Documentation/wiki/)
-- Exchange (Exbitron): [https://trade.exbitron.com/](https://trade.exbitron.com/)
-- Exchange (XeggeX): [https://xeggex.com/](https://xeggex.com/)
-- Nodes Information Monitor: [https://nodes.gntl.uk/](https://nodes.gntl.uk/)
+- Exchanges:
+  - Exbitron: [https://app.exbitron.com/](https://app.exbitron.com/)
+  - CEXSwap: [https://cexswap.cc/](https://cesswap.cc/)
+  - BITGoGet: [https://bitgoget.com/](https://bitgoget.com/)
+- Mainnet Nodes: [https://mainnet.gntl.uk/](https://mainnet.gntl.uk/)
+- Stagenet Nodes: [https://stagenet.gntl.uk/](https://stagenet.gntl.uk/)
 - Nodes Uptime Monitor: [https://stats.uptimerobot.com/wNWOvs003Y](https://stats.uptimerobot.com/wNWOvs003Y)
 
 ## Introduction

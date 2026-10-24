@@ -482,7 +482,7 @@ namespace nodetool
       full_addrs.insert("65.21.178.126:16661"); //Europe - baldtrooper
       full_addrs.insert("65.21.245.45:16661"); //Europe - baldtrooper
       full_addrs.insert("47.181.202.47:16661"); //USA - Grok
-      full_addrs.insert("198.50.187.228:16661"); //USA - Eadrom
+      full_addrs.insert("135.148.69.2:16661"); //USA - Eadrom
       full_addrs.insert("1.34.251.123:16661"); //Asia - AzPool
     }
     return full_addrs;
